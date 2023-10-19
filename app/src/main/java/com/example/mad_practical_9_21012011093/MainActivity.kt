@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
     override fun onWindowFocusChanged(hasFocus: Boolean) {
         super.onWindowFocusChanged(hasFocus)
         if (hasFocus){
+
             alarmanimation.start()
             heartmanimation.start()
         }
