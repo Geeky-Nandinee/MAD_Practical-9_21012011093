@@ -11,3 +11,9 @@ Create SplashActivity according to Video
 Create gradient Rectangle by using <gradient> tag in <shape> tag for background of SplashActivity. Use radial rectangle with x = 0.9, y =0.9, radius = 1500. Start Color pink and End Color blue. shape should be rectangle
 
 Add these all in project: <animation-list>, oneShot attribute, <set> tag, android:startOffset = 100, android:duration=1000, <scale> tag, <translate> tag, <rotate> tag, <alpha> tag
+
+
+OutPut:
+![image](https://github.com/Geeky-Nandinee/MAD_Practical-9_21012011093/assets/134035683/0998869f-946c-4fea-9985-5f2319116f6a)
+![image](https://github.com/Geeky-Nandinee/MAD_Practical-9_21012011093/assets/134035683/a3ab0822-f807-4526-9f5c-36836c9367d4)
+
